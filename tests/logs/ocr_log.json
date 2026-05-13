@@ -1,0 +1,22 @@
+[
+  {
+    "original_text": "ESPAÑOL: Texto de Ejemplo",
+    "ocr_text": "ESPANOL: Texto de Ejemplo",
+    "error_count": 1
+  },
+  {
+    "original_text": "ENGLISH: Example Text",
+    "ocr_text": "ENGLISH: Example Text",
+    "error_count": 0
+  },
+  {
+    "original_text": "We introduce Adam, an algorithm for ﬁrst-order gradient-based optimization of\nstochastic objective functions, based on adaptive estimates of lower-order mo-\nments. The method is straightforward to implement, is computationally efﬁcient,\nhas little memory requirements, is invariant to diagonal rescaling of the gradients,\nand is well suited for problems that are large in terms of data and/or parameters.\nThe method is also appropriate for non-stationary objectives and problems with\nvery noisy and/or sparse gradients. The hyper-parameters have intuitive interpre-\ntations and typically require little tuning. Some connections to related algorithms,\non which Adam was inspired, are discussed. We also analyze the theoretical con-\nvergence properties of the algorithm and provide a regret bound on the conver-\ngence rate that is comparable to the best known results under the online convex\noptimization framework. Empirical results demonstrate that Adam works well in\npractice and compares favorably to other stochastic optimization methods. Finally,\nwe discuss AdaMax, a variant of Adam based on the inﬁnity norm.",
+    "ocr_text": "We introduce Adam, an algorithm for first-order gradient-based optimization of\nstochastic objective functions, based on adaptive estimates of lower-order mo-\nments. The method is straightforward to implement, is computationally efficient,\nhas little memory requirements, is invariant to diagonal rescaling of the gradients,\nand is well suited for problems that are large in terms of data and/or parameters.\nThe method is also appropriate for non-stationary objectives and problems with\nvery noisy and/or sparse gradients. The hyperparameters have intuitive interpre-\ntations and typically require little tuning. Some connections to related algorithms,\non which Adam was inspired, are discussed. We also analyze the theoretical con-\nvergence properties of the algorithm and provide a regret bound on the conver-\ngence rate that is comparable to the best known results under the online convex\noptimization framework. Empirical results demonstrate that Adam works well in\npractice and compares favorably to other stochastic optimization methods. Finally,\nwe discuss AdaMax, a variant of Adam based on the infinity norm.",
+    "error_count": 7
+  },
+  {
+    "original_text": "Some symbols σ, λ, ^, ¿, $, #, ~",
+    "ocr_text": "Some symbols o, A, ~, i. $. +, ~",
+    "error_count": 26
+  }
+]

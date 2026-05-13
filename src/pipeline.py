@@ -1,4 +1,4 @@
-from extract_text import text_from_pdf
+from extraction import text_from_pdf
 from google import genai
 from pathlib import Path
 import asyncio
