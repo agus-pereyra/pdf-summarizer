@@ -1,0 +1,47 @@
+[
+  {
+    "chunk": 1,
+    "response": {
+      "subjects": [
+        "Inteligencia Artificial",
+        "Desarrollo de Software",
+        "Programación",
+        "Machine Learning",
+        "Matemática Avanzada"
+      ],
+      "key_data": [
+        "Contacto: +54 0341 152 170129",
+        "Email: apereyra.ia@gmail.com",
+        "GitHub: github.com/agus-pereyra",
+        "LinkedIn: www.linkedin.com/in/agustín-pereyra",
+        "Ubicación: GBA Zona Norte, Argentina",
+        "Formación: Ingeniería en Inteligencia Artificial (2024 – presente) - Universidad de San Andrés, Argentina",
+        "Formación: Bachiller en Ciencias Naturales (2019 – 2023) - Raúl Arino, Argentina",
+        "Idiomas: Español (nativo), Inglés (Cambridge B2 First)",
+        "Habilidades Técnicas: Python, C++, GitHub, C, LATEX, R, ASM, Desarrollo de Software, Machine Learning, Pytorch, Scikit-Learn, TensorFlow, Cálculo, Álgebra lineal, Técnicas algorítmicas, Estructuras de datos, Métodos numéricos y de optimización"
+      ],
+      "summary": "Estudiante de Ingeniería en Inteligencia Artificial con sólidos conocimientos en programación y fundamentos matemáticos, buscando aplicar y ampliar habilidades en desarrollo de software e IA en roles profesionales, específicamente en aprendizaje automático y/o desarrollo tecnológico.",
+      "date": "null",
+      "author": "Agustín Adrián Pereyra"
+    }
+  },
+  {
+    "chunk": 2,
+    "response": {
+      "subjects": [
+        "Probabilidad e inferencia",
+        "Habilidades blandas",
+        "Lenguajes de programación",
+        "Frameworks",
+        "Herramientas",
+        "Aprendizaje continuo"
+      ],
+      "key_data": [
+        "20% de los mejores promedios de la promoción"
+      ],
+      "summary": "El individuo demuestra fuertes habilidades blandas, incluyendo una alta disposición a aprender nuevos lenguajes de programación, frameworks y herramientas, atención al detalle, y una gran dedicación, lo que se refleja en estar entre el 20% de los mejores promedios de su carrera. Además, posee conocimientos en probabilidad e inferencia.",
+      "date": null,
+      "author": null
+    }
+  }
+]

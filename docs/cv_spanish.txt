@@ -1,0 +1,56 @@
+Agustín
+Adrián Pereyra
+Estudiante de Ingenieria en
+Inteligencia Artificial
+
+GBA Zona Norte, Argentina
+× +54 0341 152 170129
+Ɵ apereyra.ia@gmail.com
+a github.com/agus-pereyra
+] www.linkedin.com/in/agustín-pereyra
+SOBRE MÍ
+Estudiante de Ingeniería en Inteligencia Artificial con
+sólidos conocimientos en programación y fundamen-
+tos matemáticos, motivado para aplicar y ampliar ha-
+bilidades en desarrollo de software e IA en entornos
+profesionales. Busco aplicar mis conocimientos en in-
+teligencia artificial y desarrollo de software en roles de
+aprendizaje automático y/o desarrollo tecnológico.
+FORMACIÓN ACADÉMICA
+Ingeniería en Inteligencia Artificial
+2024 – presente
+Universidad de San Andrés, Argentina
+Bachiller en Ciencias Naturales
+2019 – 2023
+Raúl Arino, Argentina
+IDIOMAS
+Español – (nativo)
+Inglés – (Cambridge B2 First)
+HABILIDADES TÉCNICAS
+Python
+C++
+GitHub
+C
+LATEX
+R
+ASM
+Desarrollo de Software
+Capaz de manejar los lenguajes de programación más usados en la actualidad como Python y C++, además
+de bases sobre técnicas algorítmicas, estructuras de datos, métodos númericos y de optimización.
+Entusiasta de la Inteligencia Artificial
+Principiante en la Inteligencia Artificial, con conocimiento fundamental en Machine Learning y liberías prin-
+cipales del ámbito de Python como Pytorch, Scikit-Learn y TensorFlow.
+Matemática Avanzada
+Tengo las bases matemáticas necesarias para programación con enfoque en la IA, como cálculo, álgebra
+lineal y probabilidad e inferencia.
+HABILIDADES BLANDAS
+Dispuesto a Aprender
+Estoy siempre abierto a aprender tanto de otros lenguajes de programación, frameworks, ambientes y/o
+herramientas nuevas como también reforzar conocimientos pasados.
+Atención al detalle
+Me considero una persona altamente detallista y perfeccionista a la hora de realizar cualquier tipo de tarea
+que se me sea asignada.
+Alta dedicación
+Me comprometo al máximo con cada tarea que emprendo. Actualmente me encuentro entre el 20% de
+los mejores promedios de mi promoción de la carrera, lo que refleja mi constancia y esfuerzo a lo largo de
+la cursada.

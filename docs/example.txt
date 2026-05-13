@@ -1,0 +1,1 @@
+Ejemplo simple de texto. Esto es un ejemplo corto para probar un modelo de LLM sin utilizar varios chunks y malgastar tokens/créditos.
