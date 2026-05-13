@@ -39,6 +39,9 @@ def save_text(text : str, path : str):
         f.write(text)
 
 if __name__ == '__main__':
+    '''
+    Using the module by itself saves the .pdf file in the path (argv[1]) as a .txt
+    '''
     path = sys.argv[1]
     output_path = path.replace('pdf', 'txt')
     text = text_from_pdf(path)
